@@ -1,0 +1,29 @@
+DOCUMENTATION OF GIT WORKFLOW AND SHELL KNOWLEDGE
+git workfloW : refers to the structured process of managing change in a project using git
+working directory- where files are created and modified
+Staging area- where changes a prepared before committing
+Local repository-0 where commits are stored locally
+Remote repository- Shared repository hosted on platforms like github
+workflow steps are
+stage changes using git add
+commit changes using git commit
+push changes using git push
+pull updates using git pull
+BRANCHING - branches allows multiple developers to work independently without affecting the main branch
+common branching commands
+git branch_ creates a new branch
+
+Collaboration using Git 
+in a team environment:
+each developer works on their own branch
+changes are pushed to remote branches
+the Team lead reviews and merges branches
+conflicts are resolved if they arise
+
+SHELL USUAGE
+The LINUEX is used to navigate and manage files efficiently
+ls- list files and directories
+cd- change directories
+pwd- print working directories
+mkdir- create directories
+rm - remove files
